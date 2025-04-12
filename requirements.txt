@@ -1,0 +1,6 @@
+pip install customtkinter #customtkinter
+pip install pandas  # for working with CSV files 
+pip install tkinter  # usually comes pre-installed with Python (see note below)
+pip install opencv-python #opencv-python
+pip install Pillow #Pillow
+pip install mediapipe #mediapipe
